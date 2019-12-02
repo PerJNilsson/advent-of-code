@@ -1,3 +1,4 @@
 README:
 
-Day 1: fuelReq = floor(x / 3) - 2
+Day 1: -fuelReq = floor(x / 3) - 2
+       -calc fuelReq recursively
