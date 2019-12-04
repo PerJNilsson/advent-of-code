@@ -7,3 +7,5 @@ Day 2: Instuctions with +,* and terminate
 
 Day 3: Wire crossings. Shortest Manhattan distance and shortest combined distance to intersections
 ![The wired path](3/WiredPath.png)
+
+Day 4: Finding possible password from criterias.
