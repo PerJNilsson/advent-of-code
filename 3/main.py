@@ -85,9 +85,9 @@ def main():
     mhd, csd = findManhattanDistance(x1,x2,y1,y2)
     print("Shortest Manhattan distance =", min(mhd))
     print("Shortest combined distance=", min(csd))
-    #plt.scatter(x1, y1)
-    #plt.scatter(x2,y2)
-    #plt.show()
+    plt.scatter(x1, y1)
+    plt.scatter(x2,y2)
+    plt.show()
     #runTestCase()
 
 if __name__ == '__main__':
