@@ -9,3 +9,5 @@ Day 3: Wire crossings. Shortest Manhattan distance and shortest combined distanc
 ![The wired path](3/WiredPath.png)
 
 Day 4: Finding possible password from criterias.
+
+Day 5: Instructions with modes
